@@ -6,6 +6,7 @@
 
 
 Inject a CSS file in the DOM with the greasemonkey function `GM_addStyle`.
+
 Useful for loading a simple CSS file without embedding both `css-loader` and `style-loader` in your userscript.
 
 ## Installation
