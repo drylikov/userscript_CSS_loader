@@ -44,6 +44,7 @@ Useful for loading a simple CSS file without embedding both `css-loader` and `st
 
 
 
+
 // ==UserScript==
 // @name           Example userscript
 // @grant          GM_addStyle
