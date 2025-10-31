@@ -1,4 +1,5 @@
 
+
 # Userscript CSS loader for webpack
 
 Inject a CSS file in the DOM with the greasemonkey function `GM_addStyle`.
