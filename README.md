@@ -14,6 +14,7 @@ Useful for loading a simple CSS file without embedding both `css-loader` and `st
 
 `npm install --save-dev userscript-css-loader`
 
+
 ## Usage
 
 ```js
