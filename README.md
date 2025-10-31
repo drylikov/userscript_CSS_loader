@@ -19,6 +19,7 @@ Useful for loading a simple CSS file without embedding both `css-loader` and `st
 ## Usage
 
 
+
 ```js
 // ==UserScript==
 // @name           Example userscript
