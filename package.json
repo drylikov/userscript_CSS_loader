@@ -1,0 +1,16 @@
+{
+    "name": "userscript_css_loader",
+    "version": "0.1.1",
+    "author": "Denis Rylikov",
+    "description": "webpack css loader for userscripts",
+    "repository": {
+        "type": "git",
+        "url": "git@github.com:drylikov/userscript-css-loader.git"
+    },
+    "licenses": [
+        {
+            "type": "MIT",
+            "url": "http://www.opensource.org/licenses/mit-license.php"
+        }
+    ]
+}
