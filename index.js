@@ -6,3 +6,4 @@ module.exports = function(content) {
     return 'GM_addStyle(' + JSON.stringify(content) + ')';
 }
 module.exports.seperable = true;
+
